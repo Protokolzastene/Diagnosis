@@ -3,3 +3,5 @@
 System Monitor
 
 Watches Usage And For Any Memory Leaks
+
+Prints At Read Not Avg Like Task Manager
